@@ -1,8 +1,4 @@
-Here's your full `README.md` content formatted **to directly copy and paste into your GitHub repo** — no rendering issues, all in raw Markdown:
 
----
-
-````markdown
 # 📊 Live News Scraper Dashboard
 
 A **Streamlit-based web application** that scrapes live headlines from any public news website and visualizes them using an interactive dashboard with word clouds, keyword analytics, and auto-categorization. Built to demonstrate skills in **web scraping**, **data visualization**, **natural language processing**, and **dashboard development**.
@@ -90,50 +86,5 @@ It will open at: [http://localhost:8501](http://localhost:8501)
 | NYTimes International | [https://www.nytimes.com/international/](https://www.nytimes.com/international/) |
 
 ---
+![6985101b-0243-4ae1-a946-4f93050f7f04](https://github.com/user-attachments/assets/7d571030-54ff-4a6a-a213-c02ed82d6e55)
 
-## 📁 File Structure
-
-```
-live-news-dashboard/
-│
-├── app.py                  # Main Streamlit application
-├── README.md               # This documentation file
-└── requirements.txt        # Python dependencies (optional)
-```
-
----
-
-## 📌 Ideal For
-
-* Showcasing skills on your **CV/Resume**
-* Demonstrating knowledge in:
-
-  * Web scraping
-  * NLP basics
-  * Data cleaning and transformation
-  * Live dashboards and web apps
-* Academic projects
-* Hackathons & coding competitions
-
----
-
-## 👩‍💻 Author
-
-**Rishita Garg**
-
----
-
-## 🧠 Future Enhancements (Optional Ideas)
-
-* Multi-website scraping
-* Sentiment analysis of headlines
-* Export as CSV/JSON
-* Daily automated news scraping
-* Language detection + translation
-
-```
-
----
-
-Let me know if you want the `requirements.txt`, `.gitignore`, or an auto-deployment guide next!
-```
